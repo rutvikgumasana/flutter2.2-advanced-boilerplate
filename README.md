@@ -1,5 +1,4 @@
-# pvr_customer_app
-
+# Flutter Boilerplate
 A new Flutter project.
 
 ## Getting Started
