@@ -1,15 +1,6 @@
 # Flutter Boilerplate
-A new Flutter project.
+Advanced Flutter 2.2 Boilerplate
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This boilerplate contain nice code structure with proper error handling and everything. Ex : if you want to call the api you just need to call that class and provide the api link rest of the thing handled by the code its self automatically it will show the process indicator, internet error, error handling and many more
